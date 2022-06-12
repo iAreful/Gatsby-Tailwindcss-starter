@@ -1,4 +1,14 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+
+![gatsby-tailwindcss](https://user-images.githubusercontent.com/15269933/173220119-7fbd32f3-e25c-45ca-8b64-b93fd06171ff.png)
+
+## To-do:
+- [x] Publish
+- [x] Brainstorming 🧠
+- [ ] dark mode
+- [ ] etc
+
+
+
 <p align="center">
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
